@@ -1,3 +1,0 @@
-[submodule "packages/evidence"]
-	path = packages/evidence
-	url = https://github.com/nschenone/evidence.git
